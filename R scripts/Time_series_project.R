@@ -17,7 +17,7 @@ cat("\014")
 rm(list=ls())
 
 # Here we specify our working directory and sub-directories
-work_path <- "C:/Users/PT WORLD/Desktop/My Projects/Times_Series"
+work_path <- "C:/Users/PT WORLD/Desktop/My Projects/Time_series"
 setwd(work_path)
 dir.create("figures") # save all the figures here
 
